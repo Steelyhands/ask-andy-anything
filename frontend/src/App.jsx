@@ -5,6 +5,7 @@ import userAvatar from './assets/images/uAvatar.png'
 import logo from './assets/images/logo.png'
 import messageIcon from './assets/images/message.png'
 
+
 function App() {
   // State for storing chat messages (resets on refresh)
   const [messages, setMessages] = useState([
@@ -128,14 +129,22 @@ function App() {
 
       {/* Sidebar Section */}
       <div className={`sidebar ${isSidebarOpen ? 'active' : ''}`}>
-        <div className="sidebar-header">
-          <div className="logo">
-            <img src={logo} alt="Ask Andy Anything Logo" className="logo-image" />
-            <span className="logo-text">Ask Andy Anything</span>
-          </div>
-          <button className="new-chat-btn" onClick={clearChat}>
-            + New Chat
-          </button>
+       <div className="logo">
+    {/* Mobile Logo - AAA in colored box */}
+    <div className="mobile-logo">
+      AAA
+    </div>
+    
+    {/* Desktop Logo - Full logo */}
+    <div className="desktop-logo">
+      <img src={logo} alt="Ask Andy Anything Logo" className="logo-image" />
+      <span className="logo-text">Ask Andy Anything</span>
+    </div>
+  </div>
+  
+  <button className="new-chat-btn" onClick={clearChat}>
+    + New Chat
+  </button>
         </div>
         
         {/* Chat history section */}
