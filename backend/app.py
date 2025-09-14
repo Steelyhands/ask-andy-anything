@@ -157,8 +157,12 @@ def load_document_to_chroma(collection):
 
 # Initialize Flask app
 app = Flask(__name__)
+
+frontend_url = "https://andy-chatbot-frontend.onrender.com"
+backend_url = "https://andy-chatbot-backend.onrender.com"
+
 if os.environ.get('FLASK_ENV')== "production":
-    CORS(app, origins=[""])
+    CORS(app, origins=[frontend_url, backend_url])
 else:
     CORS(app)
 
