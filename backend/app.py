@@ -7,6 +7,28 @@ import chromadb
 from chromadb.config import Settings
 import shutil
 
+# Error handling for optional dependencies
+try:
+    import tiktoken
+    print("tiktoken available")
+except ImportError:
+    print("tiktoken not available - running without token counting")
+    tiktoken = None
+
+try:
+    import langchain
+    print("langchain available")
+except ImportError:
+    print("langchain not available - running without langchain features")
+    langchain = None
+
+try:
+    import transformers
+    print("transformers available")
+except ImportError:
+    print("transformers not available")
+    transformers = None
+
 # Load environment variables
 def load_environment():
     current_dir = os.path.dirname(os.path.abspath(__file__))
