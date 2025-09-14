@@ -1,0 +1,343 @@
+i have experience in software development and cloud infrastructure and an interest in secure systems
+
+I have developed hands-on experience with AWS infrastructure and automation tools
+
+My studies involved the design of secure Continuous integration and deployment pipelines and infrastructure as code development
+
+I have a commitment to innovation and security
+
+I am most effective in flexible environments where outcomes are more valued than the number of hours worked
+
+My experience with remote work in my studies during covid and part time work for Three during the pandemic and now prove that I am capable of working effectively remotely while maintaining close team collaboration
+
+I have Extensive experience in target driven environments.
+
+I am Looking to work in a position that will benefit my career 
+
+I achieved a First in Software Development this year.
+
+I am Highly motivated to learn new languages and ways of working and already have a wealth of experience in professional workplaces
+
+I am looking forward to being able to make a mark on whatever projects I am given the opportunity to make a contribnution to.
+
+ Currently looking for
+• Hands on experience to take my coding to the next level
+• Experience with live environments
+• Connections in Software Development
+
+Work Experience 
+
+
+Designed and implemented data visualisation solutions by developing web scraping tools to extract and process career data from LinkedIn
+
+analysed identified and mapped trends in graduate outcomes from leading universities, particularly tracking entry into biochemical industries and projecting long term career trajectories
+
+Currently engineering a handwriting recognition AI using a convolutional neural network (CNN) 
+
+The model is trained on the IAM dataset supplemented with manually labelled samples sourced from Living Rent
+
+I have demonstrated full-stack capability from data collection and cleaning to model deployment and validation
+
+Analyse real-time credit applications using Experian tools including Hunter, CIFAS, and ARIM
+
+Processes complex datasets to assess risk through payment history, fraud markers, and debt to income ratios
+
+Automated high risk transaction flagging and standardised reporting in Excel, developing templates that generate notes which are then tailored with bespoke insights
+
+safeguarded company revenue through data driven decision making in a high pressure environment
+
+
+Personal Projects
+
+Developed a neural network using TensorFlow to forecast food insecurityby processing and cleaning socioeconomic data that I sourced directly from The Food Foundation
+
+Resolved data conflicts and gaps by implementing a weighted-averaging system, resulting in a model with 92% prediction accuracy against real-world outcomes
+
+Engineered a full-stack web application with a SQL Server database, implementing a dynamic comments system and booking system
+
+Diagnosed and fixed critical database migration issues from MySQL to MongoDB, rewriting application logic to resolve compatibility errors
+
+Designed and deployed a serverless architecture using AWS CloudFormation
+
+automated image processing. Configured S3 event triggers to invoke Lambda functions for facial recognition via Amazon Rekognition
+
+Optimised EC2 instance performance through resource allocation adjustments
+
+education
+
+at Glasgow Caledonian University. Honours. from 2023–2025 i studied :
+• DevOps, Intro to Data Science
+• Application Architecture and Design Patterns
+• Integrated Project, Web Application Development
+• Research Skills and Professional Issues
+• Programming Paradigms
+• Honours Project, Machine Learning and Data Analytics
+• Cloud Platform Development
+• Secure Software Development
+
+amongst other classes 
+
+hobbies:Coding, Design (T-shirts/graphics), Video Games, Running, Weightlifting,Badminton
+
+A driven, motivated professional with First-Class Honours in Software Development and 10+ years’ cross-industry experience.
+
+Skilled in problem-solving, leadership, and delivering under pressure to strict deadlines. 
+
+My skill set bridges technical and business needs, excelling both independently and in teams.
+
+Currently developing ML algorithms while seeking roles that leverage my data analysis skills.
+
+
+I faired well in mathematics, physics and computing, I would say I was ahead of the middle of the pack for maths and physics and close to the top for computing. At college I excelled in maths and was top of my class
+
+I chose Caledonian University Software Development as I felt it was a good university offering the education I was most interested in and most suited to
+
+The challenge of university made me better at coding, developing Machine Learning solutions to problems on my own was a highlight of my time at Caledonian University
+
+I spent time in sign language lessons, ethical hacking clubs, book clubs and with friends. My hobbies outside of university included art, reading, cinema and music, specifically live music.
+
+I achieved a first class honours and designed a Machine learning algorithm that was capable of predicting food insecurity in the UK
+
+I have experience with Amazon CloudWatch, collecting and tracking metrics for applications for instance an app that could identify faces of people in pictures using Rekognition, CloudWatch helped me monitor this applications metrics
+
+I have experience with Kubernetes, Jenkins, SonarQube and Docker, I gained experience with these tools through using YAML files to create Dockerised applications
+
+I have hands-on experience designing and operating container-based deployments using Kubernetes and AWS. I have worked extensively with YAML files to configure Dockerised applications, managing their deployment and orchestration within Kubernetes clusters. This includes defining containers, services, and deployments to ensure scalable and resilient application hosting
+
+While I have not yet worked directly with dedicated continuous profiling tools like Pyroscope or Parca, my experience with AWS and Kubernetes has provided a strong foundation in performance optimisation and resource monitoring
+
+I have hands-on experience designing and operating container-based deployments using Kubernetes and AWS. I have worked extensively with YAML files to configure Dockerised applications, managing their deployment and orchestration within Kubernetes clusters. This includes defining containers, services, and deployments to ensure scalable and resilient application hosting
+
+Additionally, I implemented similar container-based workflows on AWS, leveraging EC2 instances to host applications and integrating S3 buckets for storage. For example, I designed a system where uploaded images were stored in S3, processed by Amazon Rekognition for facial recognition, and triggered a Lambda function to send email confirmations. This project required containerised components, IAM permissions, and event-driven architecture, demonstrating my ability to work with cloud-native services in a production environment
+
+In order to build a dependable observability stack for cloud based systems you have to deal with fragmented data that may be stored across multiple different microservices and Kubernetes environments, making it harder to access that data, tools that are used to work within the context of microservices can lack end to end context making it harder to diagnose and trace issues my experience with both Kubernetes and AWS services like EC2 and Lambda highlighted for me the need to have scalable and correlated monitoring
+
+I have worked on projects for University and personal projects, I have also done some work freelance, all of these projects were Python Heavy , creating CNNs to predict food insecurity in the UK for instance or tracking and monitoring where biotech students end up after graduation for recruitment companies, I have been working between google colab and visual studio code but have experience with IntelliJ, visual studio and Cloud9 , I have experience with react, Mustache and handlebars which are usually used to create the websites these projects exist on, I have some experience using Scala for functional programming, though this is mostly learning how functional programming works where we built a small application that would read and order a list of formula1 drivers depending on total wins, last win and points. I have experience with SQL and NoSQL databases , like NeDb and MySQL, using both on a java based application that helped renters rate their landlord
+
+I would call Python my strongest programming language, Pythion is the language I have the best affinity with and the language I usually find myself solving problems with, I have skewed towards CNN development in university so have spent a lot of time using python, I also have experience using Kivy for front end development which is essentially a framework for python widget based front end development
+
+I am most proud of my Machine learning algorithm that predicted food insecurity in the UK, I am proud of this project for several reasons, the first being that it combined a number of hard coding skills and languages, making it my toughest solo coding experience to date, it is my most effective and accurate Model, using data that I sourced myself. The project is designed to help people and make sure that the money spent on helping food insecure individuals is spent as effectively as possible, there are many reasons to be proud of this project, the possibility that it might in the future help feed food insecure people is the reason that makes me the proudest
+
+Through AWS services I have automated infrastructure provisioning including EC2 instance deployment and S3 bucket creation for image processing workflows. I have worked with Kubernetes YAML configurations to manage containerized applications and deployments. I understand infrastructure as code principles through these practical implementations. My experience with AWS automation demonstrates core IaC concepts of repeatable, version-controlled infrastructure management
+
+I have a lot of experience using Linux distros in day to day life, I have a Linux specific laptop running Ubuntu at the moment, a laptop which sees daily use, I understand core concepts of low level system architecture such as process management, file systems and shell environments, I have some functional programming experience with Scala primarily and C secondarily which has provided me with insights into low level systems, I am comfortable with some debugging and scripting within the functional programming framework. My aim when It comes to Linux is to deepen my knowledge of the Linux kernel and system programming
+
+I primarily use the default desktop environment for Ubuntu due to its ease of use and good user experience; however, I do have experience working via command line in order to set up and use version control via GitHub for instance
+
+I have practical experience with AWS automation including S3 bucket creation, EC2 instance deployment and implementation of facial recognition with Rekognition, although I haven’t managed large scale cloud systems I have worked with Kubernetes and Docker containers for application deployment and container orchestration, my education so far has included setting up IAM policies for access control and using CloudWatch for monitoring purposes, I have experience as discussed above with cloud workflows though as of yet I haven’t focused on optimisation of said workflows
+
+In my opinion good software needs to balance performance with being practical to develop and iterate on, through the work I have done at university I have seen how important it is to be able to change or update one component of a system without stopping any other components ability to run, Code needs to be testable but the testing needs to be practical, being able to complete solid real world checks is worth more than the perfect set of checks that slow down the process of creating an application so that it never releases. Security shouldn’t be an afterthought, you should be thinking in terms of security even at an architectural level and documentation is what helps code retain its usability , testability and modularity
+
+Good documentation should be able top be used as a roadmap, it should help users in understanding what is being documented, whether that is comments on a line of code or a white paper designed to help new users grasp core concepts of a language or help users get to grips with a project quickly. In terms of white papers, throughout university I spent time reading up on many languages and libraries, most of which had good documentation, however, the documentation that stands out most in my mind would be the TensorFlow documentation, they included interactive tutorials, pre built solutions to common problems and easy to search up error message guides, being able to get hands on with problems curated by TensorFlow in order to get to grips with their platform made the learning experience much more relatable to the real world uses I had planned for the library.
+
+
+spoken Languages:
+English (native)
+Scottish Gaelic (B1)
+
+SKILLS
+====================================================================
+Programming Languages:    Python, SQL, Java, JavaScript, HTML, CSS, C#, Scala, C
+Frameworks & Libraries:   Express, React, Kivy
+Tools & Software:         MS Word, Excel, PowerPoint, Photoshop, Figma, XD
+Methodologies:            OOP, Functional Programming
+Soft Skills:              Communication, Collaboration, Leadership
+
+
+skills:
+
+1. Technical Skills & Programming Languages
+
+    Python: Proficient/Expert. Used for data science (TensorFlow, Pandas, web scraping), automation, and backend APIs.
+
+    SQL: Proficient/Expert. Extensive experience with database design, optimization, querying, and migrations (MySQL → MongoDB).
+
+    JavaScript/Node.js: Proficient. Used with React, Express.js for full-stack development.
+
+    Java: Proficient. Listed as a core language.
+
+    C#: Proficient. Used with ASP.NET Core and Entity Framework.
+
+    HTML5/CSS3: Proficient. For front-end web development.
+
+    Scala & C: Familiar. Listed as known languages.
+
+2. Frameworks & Libraries (Confirmed from your CV)
+
+    Web Frameworks: ASP.NET Core, Express.js, React
+
+    ML/AI Libraries: TensorFlow (Neural Networks, CNN), Keras (implied with TensorFlow)
+
+    Mobile/Desktop: Kivy
+
+    ORM: Entity Framework
+
+3. Tools & Platforms 
+
+    Cloud Platforms (AWS): EC2, S3, Lambda, CloudFormation, Rekognition
+
+    Containerization & Orchestration: Docker, Kubernetes, MicroK8s
+
+    CI/CD & DevOps: Jenkins, SonarQube (static code analysis)
+
+    Databases: SQL Server, MySQL, MongoDB
+
+    Version Control: Git
+
+    Development Tools: VS Code, IntelliJ, Postman
+
+    Data Analysis Tools: MS Excel (advanced: automation, reporting), Experian (Hunter, CIFAS, ARIM)
+
+4. Methodologies & Processes 
+
+    Software Development: Agile/Scrum, CI/CD, Test-Driven Development (TDD)
+
+    System Design: Microservices, RESTful APIs, Serverless Architecture, Microservices
+
+    Data Science: Full-stack ML capability: Data Collection (Web Scraping), Data Cleaning (handling gaps, conflicts), Model Training (CNN, Neural Networks), Validation & Deployment
+
+    Other: OOP, Functional Programming, Infrastructure as Code (IaC)
+
+5. Soft Skills & Professional Attributes (Inferred from your experience)
+
+    Communication: Translating technical concepts for business impact (e.g., Credit Analyst role, safeguarding revenue).
+
+    Leadership & Collaboration: Proven ability in team and freelance environments.
+
+    Problem-Solving: Exceptional. Debugging complex database migrations, architecting full-stack solutions, resolving data conflicts for model accuracy.
+
+    Project Delivery: Delivering robust solutions under pressure to strict deadlines.
+
+    Autonomy & Proactivity: Self-motivated freelancer and continuous learner.
+
+Pandas/NumPy
+Scikit-learn
+PyTorch
+
+I have a first classs degree in software development from Glasgfow Caledonian University and was top of myy class during my time there 
+
+Andrews favourite band is Wooze
+
+Andrews favourite song is Antibodies by Ponyhoax, you should give it a listen!
+
+Andrew is 36 unfortunately 
+
+Andrew decided to go back to education when he felt stifled by the simplicity of his previous career
+
+Andrew lives in the south side of glasgow
+
+Andrew loves tech, built his own PC and loves to design novel solutions to problems through coding
+
+Andrew is a leftist, supports palestine and protests for an end to the genocide and trans rights regularly
+
+Andrew is 6ft tall and wears size 13 shoes
+
+Andy hates transphobes, the EDL , fascism, pro genocide protestors , zionism and how worchester sauce is spelled and pronounced 
+
+Andrfew loves movies including bladerunner, all of the fast and furious series and crank/crank 2 high voltage, as you can see hes a real cinophile
+
+Andrew hates being trapped in the microsoft ecosystewm and so hasd both a windows and a linux machine at home
+
+upcoming projects for andrew include building a server for his home and automating the rest of his flat
+
+andrew has lived in glasgow for most of his life outside of 3 years spent in York
+
+andrew has travelled the world and especially enjopyed his time in singapore and newzealand 
+
+my name is Andrew Cole, i go by andy, 
+
+i hjave hay fever, 
+
+I am currently working part time for three as a credit analyst, I am looking to get into more data science specific roles or software developer roles as soon as possible.
+
+My main hobbies are making art, reading and socialising .
+
+I love listening to podcasts, i liosten to Knowledge fight constantly as well as neighbourhood listen, three bean salad and the teachers lounge podcasts. 
+
+I have rescued two dogs, named rufus and banjo.
+
+My goal this year is to find a position at a compoany where I can work with live environments and gain the experience to match my education.
+
+I hold a First class BSc Hons in Software development, which i recieved from Glasgow Caledoniain university .
+
+I am currently working freelance as a softrware developer, helping living rent develop a handwriting recoginition algorithm and have previously worked with companies in glasgow on projects to identify leading candidates for positions in biotech.
+
+I am looking to find work that will help mme couple real life experience with live nevironments with my education from Glasgow Caledonian university. 
+
+My greatest strengths are my ability to break down complex problems into actionable tasks, my proficiency in cross-team collaboration and communication and my dedication to writing clean, maintainable code.
+
+In the past, I sometimes struggled with communication of my own ideas, usually conceding to the consensus of the room, however i have been working on speaking up and voicing my opinions, klnowledge and concerns in recent years, i feel like the ability to speak up is a muscle and one that if not trained regularly can atrophy, so i do my best to use it whenever it is appropriate. 
+
+I am looking for a position that can help me live comfortably now and in the future, I want to work somewhere long term and so I would be looking for something around £30,000 a year I am however open to negotiating this if I find a job that truly sparks my creativity and drive on a daily basis. 
+
+In five years, I see myself having grown into a well rounded softwarre engineer or data scientist, I see myself working on team projects as well as personal, looking to step up to more senior roles within the comapny I find myself at, taking on more responsibilities and finding the neiche within the company that I can fill 
+
+As a software engineering graduate most of my education was spent failing, failing and learning from that failure, making mistakes in code that required hours of debugging to fix, making small spellign mistakes in code that lead to having to read everything line by line, all of these small failures tought me lessons about percevierence, lessons about preperation adn lessons about clean readable and understandable code.
+
+I dont think  it is possible to work well wwithin a company without being a team player, i strive to beb the kid of person that myu colleagues come to when they need help with work, i think being a team player helps you learn too, when helping people with theirr oewn code for instance i find that i get more eurika moments thsan loking at my own code, seeign somethingf doen from som,eone elses perspective always helps broaden you r understandinfg of a problem and that can onlyt reslly be achieved as par tof a team. 
+
+I handle pressure by prioritizing ruthlessly and communicating clearly. For example, when faced with a tight deadline for my honours project, I first broke the work down into the Must-Have, Should-Have, and Could-Have features. I then clearly communicated this plan and the trade-offs to stakeholders, ensuring everyone was aligned. We delivered the core functionality on time by focusing on the critical path.
+
+I thrive in environments that are collaborative, agile, and based on mutual trust. I have extensive experience working in fully remote and hybrid settings and am highly proficient with the necessary communication tools. I value clear goals, autonomy to execute, and a culture of constructive feedback.
+
+My code review process focuses on clarity, correctness, and maintainability. I first check for logical errors and edge cases and ensure it follows style guides. I always aim to provide constructive, kind feedback that helps the author learn.(mostly because I am dealing with my own code or that of my freelance colleague, need to keep things positive in small teams)
+
+I dedicate time each week to reading tech blogs, listening to podcasts, and taking online courses. I also enjoy building small personal projects to experiment with new tools.
+
+my favourite colour is electric Blue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

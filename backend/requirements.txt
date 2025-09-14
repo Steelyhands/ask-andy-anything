@@ -1,0 +1,10 @@
+flask==2.3.3
+flask-cors==4.0.0
+chromadb==0.4.15
+langchain==0.0.350
+openai==0.28.1
+python-dotenv==1.0.0
+requests==2.31.0
+tiktoken==0.5.2
+sentence-transformers==2.2.2
+gunicorn==21.2.0

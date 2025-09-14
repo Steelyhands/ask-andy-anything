@@ -1,0 +1,1 @@
+{"model_name": "deepseek-chat", "embeddings": "all-MiniLM-L6-v2", "chunk_size": 1000, "chunk_overlap": 200, "documents_processed": 1, "chunks_created": 29}
